@@ -1,6 +1,6 @@
 # Weather-App
-Made on React JS by using react-hooks.
+- Made by using react hooks.
 
-Weather Data is fecthed from a rest API.
+- Weather Data is fecthed from a rest API.
 
-It will let u know about weather across the globe.
+- It will let you know about the weather across the globe.
